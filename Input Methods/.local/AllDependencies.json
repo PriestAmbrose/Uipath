@@ -3018,9 +3018,9 @@
     "restore": {
       "projectUniqueName": "Input Methods",
       "projectName": "Input Methods",
-      "projectPath": "C:\\Users\\Grenada PC 07\\Documents\\UiPath\\Input Methods\\.local",
+      "projectPath": "C:\\Users\\Grenada PC 07\\Documents\\UiPath\\Uipath\\Input Methods\\.local",
       "packagesPath": "C:\\Users\\Grenada PC 07\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Grenada PC 07\\Documents\\UiPath\\Input Methods\\.local"
+      "outputPath": "C:\\Users\\Grenada PC 07\\Documents\\UiPath\\Uipath\\Input Methods\\.local"
     },
     "frameworks": {
       "net461": {

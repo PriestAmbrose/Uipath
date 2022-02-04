@@ -114,10 +114,10 @@
       },
       "Assemblies": [
         "C:\\Users\\Grenada PC 07\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
-        "C:\\Users\\Grenada PC 07\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
         "C:\\Users\\Grenada PC 07\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
         "C:\\Users\\Grenada PC 07\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
         "C:\\Users\\Grenada PC 07\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\Grenada PC 07\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
         "C:\\Users\\Grenada PC 07\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
         "C:\\Users\\Grenada PC 07\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
         "C:\\Users\\Grenada PC 07\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
@@ -143,11 +143,11 @@
         "C:\\Users\\Grenada PC 07\\.nuget\\packages\\uipath.uiautomation.activities/19.11.1\\lib/net461/UiPath.Wizards.dll",
         "C:\\Users\\Grenada PC 07\\.nuget\\packages\\uipath.vision/2.0.0\\lib/net452/UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\Grenada PC 07\\.nuget\\packages\\uipath.vision/2.0.0\\lib/net452/UiPath.Vision.Core.dll",
-        "C:\\Users\\Grenada PC 07\\.nuget\\packages\\uipath.vision/2.0.0\\lib/net452/UiPath.Vision.dll",
         "C:\\Users\\Grenada PC 07\\.nuget\\packages\\uipath.vision/2.0.0\\lib/net452/UiPath.Vision.GoogleCloud.dll",
         "C:\\Users\\Grenada PC 07\\.nuget\\packages\\uipath.vision/2.0.0\\lib/net452/UiPath.Vision.Microsoft.dll",
         "C:\\Users\\Grenada PC 07\\.nuget\\packages\\uipath.vision/2.0.0\\lib/net452/UiPath.Vision.MicrosoftCloud.dll",
-        "C:\\Users\\Grenada PC 07\\.nuget\\packages\\uipath.vision/2.0.0\\lib/net452/UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\Grenada PC 07\\.nuget\\packages\\uipath.vision/2.0.0\\lib/net452/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\Grenada PC 07\\.nuget\\packages\\uipath.vision/2.0.0\\lib/net452/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\Grenada PC 07\\.nuget\\packages\\uipath.uiautomation.activities\\19.11.1"
     }
@@ -990,10 +990,10 @@
         "Version": "2.8.0"
       },
       "Assemblies": [
-        "C:\\Users\\Grenada PC 07\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.dll",
         "C:\\Users\\Grenada PC 07\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Aero.dll",
         "C:\\Users\\Grenada PC 07\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Metro.dll",
         "C:\\Users\\Grenada PC 07\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\Grenada PC 07\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.dll",
         "C:\\Users\\Grenada PC 07\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.DataGrid.dll",
         "C:\\Users\\Grenada PC 07\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.Toolkit.dll"
       ],
