@@ -3502,9 +3502,9 @@
     "restore": {
       "projectUniqueName": "Anchors_lab",
       "projectName": "Anchors_lab",
-      "projectPath": "C:\\Users\\CCA\\Documents\\UiPath\\Anchors_lab\\.local",
+      "projectPath": "C:\\Users\\CCA\\Desktop\\Uipath\\Anchors_lab\\.local",
       "packagesPath": "C:\\Users\\CCA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CCA\\Documents\\UiPath\\Anchors_lab\\.local"
+      "outputPath": "C:\\Users\\CCA\\Desktop\\Uipath\\Anchors_lab\\.local"
     },
     "frameworks": {
       "net461": {
