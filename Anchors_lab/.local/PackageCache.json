@@ -10,10 +10,10 @@
         "C:\\Users\\CCA\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
         "C:\\Users\\CCA\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
         "C:\\Users\\CCA\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
         "C:\\Users\\CCA\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
         "C:\\Users\\CCA\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
         "C:\\Users\\CCA\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
         "C:\\Users\\CCA\\.nuget\\packages\\sharpziplib/1.2.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
         "C:\\Users\\CCA\\.nuget\\packages\\uipath.excel.activities/2.9.5\\lib/net461/UiPath.Excel.Activities.Design.dll",
         "C:\\Users\\CCA\\.nuget\\packages\\uipath.excel.activities/2.9.5\\lib/net461/UiPath.Excel.Activities.dll",
@@ -28,10 +28,10 @@
       },
       "Assemblies": [
         "C:\\Users\\CCA\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.PlatformServices.dll",
         "C:\\Users\\CCA\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.PlatformServices.dll",
         "C:\\Users\\CCA\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.PlatformServices.dll",
         "C:\\Users\\CCA\\.nuget\\packages\\google.apis.calendar.v3/1.43.0.1872\\lib/net45/Google.Apis.Calendar.v3.dll",
         "C:\\Users\\CCA\\.nuget\\packages\\google.apis.core/1.43.0\\lib/net45/Google.Apis.Core.dll",
         "C:\\Users\\CCA\\.nuget\\packages\\google.apis.gmail.v1/1.43.0.1859\\lib/net45/Google.Apis.Gmail.v1.dll",
@@ -110,50 +110,95 @@
     {
       "Package": {
         "Id": "UiPath.UIAutomation.Activities",
-        "Version": "19.11.1"
+        "Version": "20.10.9"
       },
       "Assemblies": [
+        "C:\\Users\\CCA\\.nuget\\packages\\aforge/2.2.5\\lib/AForge.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\aforge.imaging/2.2.5\\lib/AForge.Imaging.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\aforge.math/2.2.5\\lib/AForge.Math.dll",
         "C:\\Users\\CCA\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit/3.8.1\\lib/net40/Xceed.Wpf.AvalonDock.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit/3.8.1\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit/3.8.1\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit/3.8.1\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit/3.8.1\\lib/net40/Xceed.Wpf.Toolkit.dll",
         "C:\\Users\\CCA\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
         "C:\\Users\\CCA\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath/19.10.7312.25504\\lib/UiPath.Interop.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.ocr.contracts/2.2.1\\lib/net45/UiPath.OCR.Contracts.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/19.11.1\\lib/net461/ActiproSoftware.DataGrid.Contrib.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/19.11.1\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/19.11.1\\lib/net461/ActiproSoftware.Editors.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/19.11.1\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/19.11.1\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/19.11.1\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/19.11.1\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/19.11.1\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/19.11.1\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/19.11.1\\lib/net461/ActiproSoftware.Text.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/19.11.1\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/19.11.1\\lib/net461/UiPath.CV.Activities.Design.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/19.11.1\\lib/net461/UiPath.CV.Activities.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/19.11.1\\lib/net461/UiPath.CV.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/19.11.1\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/19.11.1\\lib/net461/UiPath.UiAutomation.Activities.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/19.11.1\\lib/net461/UiPath.Wizards.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.vision/2.0.0\\lib/net452/UiPath.Vision.AzureComputerVision.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.vision/2.0.0\\lib/net452/UiPath.Vision.Core.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.vision/2.0.0\\lib/net452/UiPath.Vision.GoogleCloud.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.vision/2.0.0\\lib/net452/UiPath.Vision.Microsoft.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.vision/2.0.0\\lib/net452/UiPath.Vision.MicrosoftCloud.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.vision/2.0.0\\lib/net452/UiPath.Vision.Tesseract.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.vision/2.0.0\\lib/net452/UiPath.Vision.dll"
+        "C:\\Users\\CCA\\.nuget\\packages\\nlog/4.5.11\\lib/net45/NLog.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\system.collections.immutable/1.5.0\\lib/netstandard2.0/System.Collections.Immutable.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\system.threading.tasks.dataflow/4.10.0\\lib/netstandard2.0/System.Threading.Tasks.Dataflow.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath/20.10.7641.24102\\lib/UiPath.Interop.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.ocr.activities/2.4.1\\lib/net461/UiPath.OCR.Activities.Design.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.ocr.activities/2.4.1\\lib/net461/UiPath.OCR.Activities.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.ocr.activities/2.4.1\\lib/net461/UiPath.OCR.Core.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.ocr.contracts/2.7.1\\lib/net461/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.platform/20.10.4\\lib/net461/UiPath.Platform.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.telemetry.client/1.2.20\\lib/net461/TelemetryClient.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/20.10.9\\lib/net461/ActiproSoftware.DataGrid.Contrib.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/20.10.9\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/20.10.9\\lib/net461/ActiproSoftware.Editors.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/20.10.9\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/20.10.9\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/20.10.9\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/20.10.9\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/20.10.9\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/20.10.9\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/20.10.9\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/20.10.9\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/20.10.9\\lib/net461/UiPath.CV.Activities.Design.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/20.10.9\\lib/net461/UiPath.CV.Activities.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/20.10.9\\lib/net461/UiPath.CV.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/20.10.9\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/20.10.9\\lib/net461/UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/20.10.9\\lib/net461/UiPath.UIAutomationCore.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/20.10.9\\lib/net461/UiPath.UIAutomationNext.Activities.Design.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/20.10.9\\lib/net461/UiPath.UIAutomationNext.Activities.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/20.10.9\\lib/net461/UiPath.UIAutomationNext.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities/20.10.9\\lib/net461/UiPath.Wizards.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.AzureComputerVision.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.Core.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.GoogleCloud.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.Microsoft.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.MicrosoftCloud.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.Tesseract.dll"
       ],
-      "Path": "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\19.11.1"
+      "Path": "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9"
     }
   ],
   "Conflicts": [],
   "ResolvedDependencies": {
+    "AForge": {
+      "Id": "AForge",
+      "Version": "2.2.5",
+      "Dependencies": []
+    },
+    "AForge.Imaging": {
+      "Id": "AForge.Imaging",
+      "Version": "2.2.5",
+      "Dependencies": [
+        {
+          "Item1": "AForge",
+          "Item2": "[2.2.5, )"
+        },
+        {
+          "Item1": "AForge.Math",
+          "Item2": "[2.2.5, )"
+        }
+      ]
+    },
+    "AForge.Math": {
+      "Id": "AForge.Math",
+      "Version": "2.2.5",
+      "Dependencies": [
+        {
+          "Item1": "AForge",
+          "Item2": "[2.2.5, )"
+        }
+      ]
+    },
     "AvalonEdit": {
       "Id": "AvalonEdit",
       "Version": "5.0.3",
@@ -186,7 +231,7 @@
     },
     "Extended.Wpf.Toolkit": {
       "Id": "Extended.Wpf.Toolkit",
-      "Version": "2.8.0",
+      "Version": "3.8.1",
       "Dependencies": []
     },
     "Google.Apis": {
@@ -573,6 +618,11 @@
       "Version": "11.0.2",
       "Dependencies": []
     },
+    "NLog": {
+      "Id": "NLog",
+      "Version": "4.5.11",
+      "Dependencies": []
+    },
     "NPOI": {
       "Id": "NPOI",
       "Version": "2.4.1",
@@ -591,6 +641,11 @@
     "System.Buffers": {
       "Id": "System.Buffers",
       "Version": "4.5.1",
+      "Dependencies": []
+    },
+    "System.Collections.Immutable": {
+      "Id": "System.Collections.Immutable",
+      "Version": "1.5.0",
       "Dependencies": []
     },
     "System.ComponentModel.Annotations": {
@@ -707,6 +762,11 @@
         }
       ]
     },
+    "System.Threading.Tasks.Dataflow": {
+      "Id": "System.Threading.Tasks.Dataflow",
+      "Version": "4.10.0",
+      "Dependencies": []
+    },
     "System.Threading.Tasks.Extensions": {
       "Id": "System.Threading.Tasks.Extensions",
       "Version": "4.5.4",
@@ -724,7 +784,7 @@
     },
     "UiPath": {
       "Id": "UiPath",
-      "Version": "19.10.7312.25504",
+      "Version": "20.10.7641.24102",
       "Dependencies": []
     },
     "UiPath.Excel.Activities": {
@@ -807,9 +867,39 @@
         }
       ]
     },
+    "UiPath.OCR.Activities": {
+      "Id": "UiPath.OCR.Activities",
+      "Version": "2.4.1",
+      "Dependencies": [
+        {
+          "Item1": "UiPath.OCR.Contracts",
+          "Item2": "[2.7.1, )"
+        },
+        {
+          "Item1": "AForge.Imaging",
+          "Item2": "[2.2.5, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        },
+        {
+          "Item1": "NLog",
+          "Item2": "[4.5.11, )"
+        },
+        {
+          "Item1": "System.Collections.Immutable",
+          "Item2": "[1.5.0, )"
+        },
+        {
+          "Item1": "System.ValueTuple",
+          "Item2": "[4.5.0, )"
+        }
+      ]
+    },
     "UiPath.OCR.Contracts": {
       "Id": "UiPath.OCR.Contracts",
-      "Version": "2.2.1",
+      "Version": "2.7.1",
       "Dependencies": []
     },
     "UiPath.Platform": {
@@ -888,21 +978,43 @@
         }
       ]
     },
+    "UiPath.Telemetry.Client": {
+      "Id": "UiPath.Telemetry.Client",
+      "Version": "1.2.20",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.1, )"
+        },
+        {
+          "Item1": "System.Threading.Tasks.Dataflow",
+          "Item2": "[4.10.0, )"
+        }
+      ]
+    },
     "UiPath.UIAutomation.Activities": {
       "Id": "UiPath.UIAutomation.Activities",
-      "Version": "19.11.1",
+      "Version": "20.10.9",
       "Dependencies": [
         {
           "Item1": "UiPath",
-          "Item2": "[19.10.7312.25504, )"
+          "Item2": "[20.10.7641.24102, 20.10.7641.24102]"
         },
         {
           "Item1": "UiPath.Vision",
-          "Item2": "[2.0.0, )"
+          "Item2": "[2.2.0, )"
         },
         {
           "Item1": "UiPath.OCR.Contracts",
-          "Item2": "[2.2.1, )"
+          "Item2": "[2.7.1, )"
+        },
+        {
+          "Item1": "UiPath.OCR.Activities",
+          "Item2": "[2.4.1, )"
+        },
+        {
+          "Item1": "UiPath.Platform",
+          "Item2": "[20.10.4, )"
         },
         {
           "Item1": "AvalonEdit",
@@ -910,7 +1022,7 @@
         },
         {
           "Item1": "Extended.Wpf.Toolkit",
-          "Item2": "[2.8.0, )"
+          "Item2": "[3.8.1, )"
         },
         {
           "Item1": "Humanizer.Core",
@@ -919,21 +1031,59 @@
         {
           "Item1": "Newtonsoft.Json",
           "Item2": "[11.0.2, )"
+        },
+        {
+          "Item1": "System.IO.Abstractions",
+          "Item2": "[3.0.10, )"
+        },
+        {
+          "Item1": "UiPath.Telemetry.Client",
+          "Item2": "[1.2.20, )"
         }
       ]
     },
     "UiPath.Vision": {
       "Id": "UiPath.Vision",
-      "Version": "2.0.0",
+      "Version": "2.2.0",
       "Dependencies": [
         {
           "Item1": "UiPath.OCR.Contracts",
-          "Item2": "[2.2.1, )"
+          "Item2": "[2.7.1, )"
         }
       ]
     }
   },
   "AllPackages": [
+    {
+      "Package": {
+        "Id": "AForge",
+        "Version": "2.2.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\CCA\\.nuget\\packages\\aforge\\2.2.5\\lib\\AForge.dll"
+      ],
+      "Path": "C:\\Users\\CCA\\.nuget\\packages\\aforge\\2.2.5"
+    },
+    {
+      "Package": {
+        "Id": "AForge.Imaging",
+        "Version": "2.2.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\CCA\\.nuget\\packages\\aforge.imaging\\2.2.5\\lib\\AForge.Imaging.dll"
+      ],
+      "Path": "C:\\Users\\CCA\\.nuget\\packages\\aforge.imaging\\2.2.5"
+    },
+    {
+      "Package": {
+        "Id": "AForge.Math",
+        "Version": "2.2.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\CCA\\.nuget\\packages\\aforge.math\\2.2.5\\lib\\AForge.Math.dll"
+      ],
+      "Path": "C:\\Users\\CCA\\.nuget\\packages\\aforge.math\\2.2.5"
+    },
     {
       "Package": {
         "Id": "AvalonEdit",
@@ -987,17 +1137,16 @@
     {
       "Package": {
         "Id": "Extended.Wpf.Toolkit",
-        "Version": "2.8.0"
+        "Version": "3.8.1"
       },
       "Assemblies": [
-        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Aero.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Metro.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.DataGrid.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.Toolkit.dll"
+        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit\\3.8.1\\lib\\net40\\Xceed.Wpf.AvalonDock.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit\\3.8.1\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit\\3.8.1\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit\\3.8.1\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit\\3.8.1\\lib\\net40\\Xceed.Wpf.Toolkit.dll"
       ],
-      "Path": "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0"
+      "Path": "C:\\Users\\CCA\\.nuget\\packages\\extended.wpf.toolkit\\3.8.1"
     },
     {
       "Package": {
@@ -1005,8 +1154,8 @@
         "Version": "1.43.0"
       },
       "Assemblies": [
-        "C:\\Users\\CCA\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.PlatformServices.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.dll"
+        "C:\\Users\\CCA\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.PlatformServices.dll"
       ],
       "Path": "C:\\Users\\CCA\\.nuget\\packages\\google.apis\\1.43.0"
     },
@@ -1016,8 +1165,8 @@
         "Version": "1.43.0"
       },
       "Assemblies": [
-        "C:\\Users\\CCA\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.PlatformServices.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.dll"
+        "C:\\Users\\CCA\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.PlatformServices.dll"
       ],
       "Path": "C:\\Users\\CCA\\.nuget\\packages\\google.apis.auth\\1.43.0"
     },
@@ -1324,14 +1473,24 @@
     },
     {
       "Package": {
+        "Id": "NLog",
+        "Version": "4.5.11"
+      },
+      "Assemblies": [
+        "C:\\Users\\CCA\\.nuget\\packages\\nlog\\4.5.11\\lib\\net45\\NLog.dll"
+      ],
+      "Path": "C:\\Users\\CCA\\.nuget\\packages\\nlog\\4.5.11"
+    },
+    {
+      "Package": {
         "Id": "NPOI",
         "Version": "2.4.1"
       },
       "Assemblies": [
+        "C:\\Users\\CCA\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.dll",
         "C:\\Users\\CCA\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OOXML.dll",
         "C:\\Users\\CCA\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXml4Net.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXmlFormats.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.dll"
+        "C:\\Users\\CCA\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXmlFormats.dll"
       ],
       "Path": "C:\\Users\\CCA\\.nuget\\packages\\npoi\\2.4.1"
     },
@@ -1354,6 +1513,16 @@
         "C:\\Users\\CCA\\.nuget\\packages\\system.buffers\\4.5.1\\lib\\net461\\System.Buffers.dll"
       ],
       "Path": "C:\\Users\\CCA\\.nuget\\packages\\system.buffers\\4.5.1"
+    },
+    {
+      "Package": {
+        "Id": "System.Collections.Immutable",
+        "Version": "1.5.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\CCA\\.nuget\\packages\\system.collections.immutable\\1.5.0\\lib\\netstandard2.0\\System.Collections.Immutable.dll"
+      ],
+      "Path": "C:\\Users\\CCA\\.nuget\\packages\\system.collections.immutable\\1.5.0"
     },
     {
       "Package": {
@@ -1447,6 +1616,16 @@
     },
     {
       "Package": {
+        "Id": "System.Threading.Tasks.Dataflow",
+        "Version": "4.10.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\CCA\\.nuget\\packages\\system.threading.tasks.dataflow\\4.10.0\\lib\\netstandard2.0\\System.Threading.Tasks.Dataflow.dll"
+      ],
+      "Path": "C:\\Users\\CCA\\.nuget\\packages\\system.threading.tasks.dataflow\\4.10.0"
+    },
+    {
+      "Package": {
         "Id": "System.Threading.Tasks.Extensions",
         "Version": "4.5.4"
       },
@@ -1468,12 +1647,12 @@
     {
       "Package": {
         "Id": "UiPath",
-        "Version": "19.10.7312.25504"
+        "Version": "20.10.7641.24102"
       },
       "Assemblies": [
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath\\19.10.7312.25504\\lib\\UiPath.Interop.dll"
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath\\20.10.7641.24102\\lib\\UiPath.Interop.dll"
       ],
-      "Path": "C:\\Users\\CCA\\.nuget\\packages\\uipath\\19.10.7312.25504"
+      "Path": "C:\\Users\\CCA\\.nuget\\packages\\uipath\\20.10.7641.24102"
     },
     {
       "Package": {
@@ -1503,13 +1682,25 @@
     },
     {
       "Package": {
-        "Id": "UiPath.OCR.Contracts",
-        "Version": "2.2.1"
+        "Id": "UiPath.OCR.Activities",
+        "Version": "2.4.1"
       },
       "Assemblies": [
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.ocr.contracts\\2.2.1\\lib\\net45\\UiPath.OCR.Contracts.dll"
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.ocr.activities\\2.4.1\\lib\\net461\\UiPath.OCR.Activities.Design.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.ocr.activities\\2.4.1\\lib\\net461\\UiPath.OCR.Activities.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.ocr.activities\\2.4.1\\lib\\net461\\UiPath.OCR.Core.dll"
       ],
-      "Path": "C:\\Users\\CCA\\.nuget\\packages\\uipath.ocr.contracts\\2.2.1"
+      "Path": "C:\\Users\\CCA\\.nuget\\packages\\uipath.ocr.activities\\2.4.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.OCR.Contracts",
+        "Version": "2.7.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.ocr.contracts\\2.7.1\\lib\\net461\\UiPath.OCR.Contracts.dll"
+      ],
+      "Path": "C:\\Users\\CCA\\.nuget\\packages\\uipath.ocr.contracts\\2.7.1"
     },
     {
       "Package": {
@@ -1545,40 +1736,54 @@
     },
     {
       "Package": {
-        "Id": "UiPath.UIAutomation.Activities",
-        "Version": "19.11.1"
+        "Id": "UiPath.Telemetry.Client",
+        "Version": "1.2.20"
       },
       "Assemblies": [
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\19.11.1\\lib\\net461\\ActiproSoftware.DataGrid.Contrib.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\19.11.1\\lib\\net461\\ActiproSoftware.Docking.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\19.11.1\\lib\\net461\\ActiproSoftware.Editors.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\19.11.1\\lib\\net461\\ActiproSoftware.Ribbon.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\19.11.1\\lib\\net461\\ActiproSoftware.Shared.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\19.11.1\\lib\\net461\\ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\19.11.1\\lib\\net461\\ActiproSoftware.SyntaxEditor.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\19.11.1\\lib\\net461\\ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\19.11.1\\lib\\net461\\ActiproSoftware.Text.LLParser.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\19.11.1\\lib\\net461\\ActiproSoftware.Text.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\19.11.1\\lib\\net461\\ActiproSoftware.Wizard.Wpf.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\19.11.1\\lib\\net461\\UiPath.CV.Activities.Design.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\19.11.1\\lib\\net461\\UiPath.CV.Activities.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\19.11.1\\lib\\net461\\UiPath.CV.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\19.11.1\\lib\\net461\\UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\19.11.1\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\19.11.1\\lib\\net461\\UiPath.Wizards.dll"
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.telemetry.client\\1.2.20\\lib\\net461\\TelemetryClient.dll"
       ],
-      "Path": "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\19.11.1"
+      "Path": "C:\\Users\\CCA\\.nuget\\packages\\uipath.telemetry.client\\1.2.20"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities",
+        "Version": "20.10.9"
+      },
+      "Assemblies": [
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\lib\\net461\\ActiproSoftware.DataGrid.Contrib.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\lib\\net461\\ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\lib\\net461\\ActiproSoftware.Editors.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\lib\\net461\\ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\lib\\net461\\ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\lib\\net461\\ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\lib\\net461\\ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\lib\\net461\\ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\lib\\net461\\ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\lib\\net461\\ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\lib\\net461\\ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\lib\\net461\\UiPath.CV.Activities.Design.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\lib\\net461\\UiPath.CV.Activities.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\lib\\net461\\UiPath.CV.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\lib\\net461\\UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\lib\\net461\\UiPath.UIAutomationCore.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\lib\\net461\\UiPath.UIAutomationNext.Activities.Design.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\lib\\net461\\UiPath.UIAutomationNext.Activities.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\lib\\net461\\UiPath.UIAutomationNext.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\lib\\net461\\UiPath.Wizards.dll"
+      ],
+      "Path": "C:\\Users\\CCA\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9"
     },
     {
       "Package": {
         "Id": "UiPath.Vision",
-        "Version": "2.0.0"
+        "Version": "2.2.0"
       },
       "Assemblies": [
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.vision\\2.0.0\\lib\\net452\\UiPath.Vision.Core.dll",
-        "C:\\Users\\CCA\\.nuget\\packages\\uipath.vision\\2.0.0\\lib\\net452\\UiPath.Vision.dll"
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.vision\\2.2.0\\lib\\net461\\UiPath.Vision.Core.dll",
+        "C:\\Users\\CCA\\.nuget\\packages\\uipath.vision\\2.2.0\\lib\\net461\\UiPath.Vision.dll"
       ],
-      "Path": "C:\\Users\\CCA\\.nuget\\packages\\uipath.vision\\2.0.0"
+      "Path": "C:\\Users\\CCA\\.nuget\\packages\\uipath.vision\\2.2.0"
     }
   ]
 }
