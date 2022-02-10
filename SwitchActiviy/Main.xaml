@@ -67,7 +67,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="334,238" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" Label="[&quot;Enter day fo the week:&quot; + Environment.NewLine +&quot;1.Monday ... 7 Sunday&quot; + Environment.NewLine +&quot;you must enter in quotes for example &quot;&quot;1&quot;&quot; &quot;]" Title="Weekday or Weekend">
+    <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="497,238" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" Label="[&quot;Enter day fo the week:&quot; + Environment.NewLine +&quot;1.Monday ... 7 Sunday&quot;]" Title="Weekday or Weekend">
       <ui:InputDialog.Result>
         <OutArgument x:TypeArguments="x:String">[day]</OutArgument>
       </ui:InputDialog.Result>
@@ -76,13 +76,13 @@
       <Switch.Default>
         <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="334,59" sap2010:WorkflowViewState.IdRef="MessageBox_8" Text="[&quot;Invalid input&quot;]" />
       </Switch.Default>
-      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" x:Key="&quot;1&quot;" sap:VirtualizedContainerService.HintSize="334,59" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;weekday&quot;]" />
-      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" x:Key="&quot;2&quot;" sap:VirtualizedContainerService.HintSize="334,59" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;weekday&quot;]" />
-      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" x:Key="&quot;3" sap:VirtualizedContainerService.HintSize="334,59" sap2010:WorkflowViewState.IdRef="MessageBox_3" Text="[&quot;weekday&quot;]" />
-      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" x:Key="&quot;4&quot;" sap:VirtualizedContainerService.HintSize="334,59" sap2010:WorkflowViewState.IdRef="MessageBox_4" Text="[&quot;weekday&quot;]" />
-      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" x:Key="&quot;5&quot;" sap:VirtualizedContainerService.HintSize="334,59" sap2010:WorkflowViewState.IdRef="MessageBox_5" Text="[&quot;weekday&quot;]" />
-      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" x:Key="&quot;6&quot;" sap:VirtualizedContainerService.HintSize="334,59" sap2010:WorkflowViewState.IdRef="MessageBox_6" Text="[&quot;weekend&quot;]" />
-      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" x:Key="&quot;7&quot;" sap:VirtualizedContainerService.HintSize="334,59" sap2010:WorkflowViewState.IdRef="MessageBox_7" Text="[&quot;weekend&quot;]" />
+      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" x:Key="1" sap:VirtualizedContainerService.HintSize="334,59" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;weekday&quot;]" />
+      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" x:Key="2" sap:VirtualizedContainerService.HintSize="334,59" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;weekday&quot;]" />
+      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" x:Key="3" sap:VirtualizedContainerService.HintSize="334,59" sap2010:WorkflowViewState.IdRef="MessageBox_3" Text="[&quot;weekday&quot;]" />
+      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" x:Key="4" sap:VirtualizedContainerService.HintSize="334,59" sap2010:WorkflowViewState.IdRef="MessageBox_4" Text="[&quot;weekday&quot;]" />
+      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" x:Key="5" sap:VirtualizedContainerService.HintSize="334,59" sap2010:WorkflowViewState.IdRef="MessageBox_5" Text="[&quot;weekday&quot;]" />
+      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" x:Key="6" sap:VirtualizedContainerService.HintSize="334,59" sap2010:WorkflowViewState.IdRef="MessageBox_6" Text="[&quot;weekend&quot;]" />
+      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" x:Key="7" sap:VirtualizedContainerService.HintSize="334,59" sap2010:WorkflowViewState.IdRef="MessageBox_7" Text="[&quot;weekend&quot;]" />
     </Switch>
   </Sequence>
 </Activity>
