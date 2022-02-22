@@ -1,18 +1,18 @@
 {
-  "name": "ReadingsProject",
-  "description": "ReadingsProject",
+  "name": "RPAChallenge",
+  "description": "Rpa challenge with Excell\r\n",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.5]",
     "UiPath.Mail.Activities": "[1.9.5]",
     "UiPath.System.Activities": "[20.10.4]",
-    "UiPath.UIAutomation.Activities": "[20.10.9]"
+    "UiPath.UIAutomation.Activities": "[19.11.1]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "20.10.7.0",
-  "projectVersion": "1.0.1",
+  "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
@@ -37,13 +37,13 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": false
+    "modernBehavior": true
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "101dc3d3-e575-4ce0-b63f-6d3aea86863a",
+      "uniqueId": "596b53c5-56a2-40ab-a5d1-535159c5201b",
       "input": [],
       "output": []
     }
