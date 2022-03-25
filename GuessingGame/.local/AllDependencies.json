@@ -3496,15 +3496,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CCA\\.nuget\\packages\\": {}
+    "C:\\Users\\Grenada PC 07\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "GuessingGame",
       "projectName": "GuessingGame",
-      "projectPath": "C:\\Users\\CCA\\Desktop\\Uipath\\GuessingGame\\.local",
-      "packagesPath": "C:\\Users\\CCA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CCA\\Desktop\\Uipath\\GuessingGame\\.local"
+      "projectPath": "C:\\Users\\Grenada PC 07\\Documents\\UiPath\\Uipath\\GuessingGame\\.local",
+      "packagesPath": "C:\\Users\\Grenada PC 07\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Grenada PC 07\\Documents\\UiPath\\Uipath\\GuessingGame\\.local"
     },
     "frameworks": {
       "net461": {

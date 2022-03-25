@@ -1,12 +1,12 @@
 {
-  "name": "ParallelGoogleSearch",
-  "description": "ParallelGoogleSearch",
+  "name": "B",
+  "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.5]",
     "UiPath.Mail.Activities": "[1.9.5]",
     "UiPath.System.Activities": "[20.10.4]",
-    "UiPath.UIAutomation.Activities": "[21.10.5]"
+    "UiPath.UIAutomation.Activities": "[19.11.1]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -37,13 +37,13 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": false
+    "modernBehavior": true
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "54d5c833-a5a5-4c1f-a960-f06343620da6",
+      "uniqueId": "411b33a1-69c2-4dde-afb6-c86ccf4a3943",
       "input": [],
       "output": []
     }
